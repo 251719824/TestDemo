@@ -1,0 +1,13 @@
+package test01;
+
+public class Test03 {
+	public static void main(String[] args) {
+		System.out.println("helloword");
+        System.out.println("其实我是第一次");
+		System.out.println("这是第二次");
+            System.out.println("艺术就是派大星");
+        System.out.println("我想来第三次");
+        System.out.println("你看到我额头上的"+(3+3)+(3+3)+(3+3)+"了吗?");
+        System.out.println("多喝热水");
+	}
+}

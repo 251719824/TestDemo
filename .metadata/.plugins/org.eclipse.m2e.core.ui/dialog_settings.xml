@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\TCGBIII\CGBWORKSFIVEB\sp11-zuul"/>
+			<item value="D:\TCGBIII\CGBWORKSFIVEB\sp10-turbine"/>
+			<item value="D:\TCGBIII\CGBWORKSFIVEB\sp08-hystrix-dashboard"/>
+			<item value="D:\TCGBIII\CGBWORKSFIVEB\sp05-eureka"/>
+			<item value="D:\TCGBIII\CGBWORKSFIVEB\sp04-orderservice"/>
+			<item value="D:\TCGBIII\CGBWORKSFIVEB\sp03-userservice"/>
+			<item value="D:\TCGBIII\CGBWORKSFIVEB\sp02-itemservice"/>
+			<item value="D:\TCGBIII\CGBWORKSFIVEB\sp01-commons"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
