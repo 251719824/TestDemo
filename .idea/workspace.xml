@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0772f81c-382e-4f2b-a0eb-b765892b46a1" name="Default Changelist" comment="项目初始化">
+    <list default="true" id="0772f81c-382e-4f2b-a0eb-b765892b46a1" name="Default Changelist" comment="在ItemService 中添加了一个print 打印的方法">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp01-commons/src/main/java/cn/tedu/sp01/service/ItemService.java" beforeDir="false" afterPath="$PROJECT_DIR$/sp01-commons/src/main/java/cn/tedu/sp01/service/ItemService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp04-orderservice/src/main/java/cn/tedu/sp04/order/service/OderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/sp04-orderservice/src/main/java/cn/tedu/sp04/order/service/OderServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CGBWORKSFIVE" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
@@ -49,26 +50,34 @@
       <option name="project" value="LOCAL" />
       <updated>1607132662577</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="在ItemService 中添加了一个print 打印的方法">
+      <created>1607134790017</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607134790017</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="项目初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目初始化" />
+    <MESSAGE value="在ItemService 中添加了一个print 打印的方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="在ItemService 中添加了一个print 打印的方法" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1607134727525">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1607134727525" />
-    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1607132061313">
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1607136461495">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607132061313" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1607133559154">
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607136461495" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1607134826020">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607133559154" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607134826020" />
     <state x="435" y="146" key="VcsDiffUtil.ChangesDialog" timestamp="1607134718979">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

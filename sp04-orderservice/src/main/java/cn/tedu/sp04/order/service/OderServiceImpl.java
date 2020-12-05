@@ -42,7 +42,7 @@ public class OderServiceImpl implements OrderService {
 		
 		return order;
 	}
-
+	private void print(){}
 	@Override
 	public void addOrder(Order order) {
 		/**
